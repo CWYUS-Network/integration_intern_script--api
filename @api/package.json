@@ -1,0 +1,20 @@
+{
+  "name": "@api/iis",
+  "version": "1.0.0",
+  "description": "@API of Integration Intern Script (IIS)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CWYUS-Network/integration_intern_script--api"
+  },
+  "keywords": [
+    "Integration Intern Script",
+    "API"
+  ],
+  "author": {
+    "name": "Integration Intern Script",
+    "email": "integration.intern.script@gmail.com",
+    "url": "https://integration-intern-script.web.app/documentation"
+  },
+  "license": "ISC"
+}
